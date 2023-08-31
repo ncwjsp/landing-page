@@ -112,7 +112,7 @@ button {
   justify-content: center;
   padding-top: 48px;
   text-align: center;
-  font-size: 30px;
+  font-size: 18px;
 }
 
 .items .img {
@@ -148,4 +148,49 @@ button {
   color: #1f2937;
   align-self: flex-end;
   font-size: 24px;
+}
+
+.signup {
+  display: flex;
+  justify-content: center;
+}
+
+.signup .box {
+  width: 1000px;
+  height: 150px;
+  background-color: #3882f6;
+  margin: 100px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text .main {
+  font-size: 24px;
+}
+
+.signup .button {
+  border-radius: 10px;
+  border: 3px solid #e5e7eb;
+  color: #e5e7eb;
+  padding: 8px 36px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.footer {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  background-color: #1f2937;
+}
+
+.footer div {
+  padding: 40px;
+  color: #e5e7eb;
+  font-size: 18px;
 }
