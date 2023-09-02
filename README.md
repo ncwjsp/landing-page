@@ -7,3 +7,7 @@ Skills used
 
 - HTML
 - CSS (Flexbox)
+
+
+Preview
+https://ncwjsp.github.io/landing-page
